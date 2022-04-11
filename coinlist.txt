@@ -1,0 +1,20 @@
+Btc     ✅
+Eth     ✅
+Xrp     
+Trx     ✅
+Bnb     ✅ 
+Ltc 
+Dot
+Doge    ✅
+Neo
+Qtum 
+Xtz
+Eos 
+Etc
+Bch
+Xlm
+XEM
+
+ERC20 - ( Matic, Usdt, Yfi, Link, 1inch, Sushi, Glm ) ✅
+TRC20 - ( Wink, Usdt, Jst, Sun, Btt ) ✅
+BEP20 - ( Usdt, Ada, Cake ) ✅
